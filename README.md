@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
