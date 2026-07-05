@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
@@ -32,6 +33,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -48,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
