@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
