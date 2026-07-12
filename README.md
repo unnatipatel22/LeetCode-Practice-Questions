@@ -8,6 +8,7 @@
 | [0704-binary-search](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
@@ -77,8 +78,13 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
