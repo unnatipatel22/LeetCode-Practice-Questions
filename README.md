@@ -87,4 +87,20 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
