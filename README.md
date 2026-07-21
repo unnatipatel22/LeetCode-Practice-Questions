@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
