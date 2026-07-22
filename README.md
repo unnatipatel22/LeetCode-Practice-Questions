@@ -12,6 +12,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -95,6 +97,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
