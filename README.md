@@ -83,9 +83,11 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
