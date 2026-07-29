@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -141,4 +144,9 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
