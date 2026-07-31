@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
