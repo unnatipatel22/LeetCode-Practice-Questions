@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -94,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -157,4 +160,12 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
