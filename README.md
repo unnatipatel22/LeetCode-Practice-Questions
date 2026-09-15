@@ -98,6 +98,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
