@@ -66,6 +66,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -99,6 +100,7 @@
 | [0486-predict-the-winner](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -144,6 +146,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -163,6 +166,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
