@@ -16,6 +16,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/unnatipatel22/LeetCode-Practice-Questions/tree/master/3870-count-commas-in-range) |
